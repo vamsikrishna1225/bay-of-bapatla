@@ -1,0 +1,23 @@
+BAY OF BAPATLA — SEO SETUP
+
+Included:
+- SEO title and meta description
+- index/follow robots directive
+- Canonical URL
+- Open Graph + Twitter metadata
+- WebSite + Organization structured data
+- robots.txt and sitemap.xml
+- Semantic tourism content and headings
+- Responsive/mobile layout
+- Custom 404 page and favicon
+
+BEFORE DEPLOYING:
+1. Replace every occurrence of https://bay-of-bapatla.pages.dev/ with your real deployed URL/domain.
+2. Verify the site in Google Search Console.
+3. Submit https://YOUR-DOMAIN/sitemap.xml in Search Console.
+4. Use URL Inspection -> Request Indexing for the homepage.
+5. Add real, original photographs and accurate destination information.
+6. Replace demo contact details before publishing.
+
+SEO does not guarantee indexing or rankings. Helpful, original content,
+good site structure, relevant links, and a strong user experience still matter.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bay-of-bapatla.pages.dev/sitemap.xml
