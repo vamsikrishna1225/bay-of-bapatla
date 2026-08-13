@@ -1,0 +1,14 @@
+BAY OF BAPATLA — ADVENTURE & WATER SPORTS UPDATE
+
+Added:
+- Dedicated Adventure & Water Sports section
+- Suryalanka Beach Jet Ski — Blue Wave Adventures
+- Ramapuram Beach Jet Ski — Dive Chirala Water Sports
+- Ramapuram Beach Paramotoring (Powered Paragliding) — Vihang Adventures
+- Click-to-call booking buttons
+- Vihang Adventures email contact
+- Weather/sea-condition and operator-availability disclaimer
+- Updated canonical/robots/sitemap URLs to the current Cloudflare Workers URL
+
+IMPORTANT:
+Prices, timings and availability are operator- and weather-dependent. Confirm before travel.
