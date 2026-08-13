@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bay-of-bapatla.pages.dev/sitemap.xml
+Sitemap: https://bay-of-bapatla.krishnavamsi1225.workers.dev/sitemap.xml
